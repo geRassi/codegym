@@ -8,7 +8,7 @@
 .idea/
 *.iml
 */target/*
-*/target/**
+*/target/**/*.jar
 *.jar
 
 # Sensitive or high-churn files:
