@@ -8,6 +8,7 @@
 .idea/
 *.iml
 */target/*
+*/target/**
 */target/**/*.jar
 *.jar
 
