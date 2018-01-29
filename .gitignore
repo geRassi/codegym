@@ -7,7 +7,8 @@
 .idea/dictionaries
 .idea/
 *.iml
-.target/**
+*/target/*
+*/target/**
 *.jar
 
 # Sensitive or high-churn files:
