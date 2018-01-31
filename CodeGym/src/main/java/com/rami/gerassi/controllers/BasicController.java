@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class BasicController {
 
-    @GetMapping
+    @GetMapping("lala")
     String x() {
         System.out.println("Hello");
         return "Hello";
