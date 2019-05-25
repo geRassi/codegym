@@ -4,6 +4,8 @@ namespace ConsoleApp1
     {
         public void PerformAction()
         {
+
+            int i;
         }
 
     }
