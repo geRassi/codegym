@@ -6,6 +6,7 @@ namespace ConsoleApp1
         {
 
             int i;
+            int a;
         }
 
     }
